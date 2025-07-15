@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adibhatta0
-- 👀 I’m interested in Data Analytics and Front End Development
-- 🌱 I’m currently learning to be professional in Data Analysis
+- 👀 I’m interested in Machine Learning and Front End Development
+- 🌱 I’m currently learning to be professional in Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me through my email id
 - 😄 Pronouns: ...
